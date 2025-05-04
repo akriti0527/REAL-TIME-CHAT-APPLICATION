@@ -17,3 +17,4 @@ The frontend consists of three main files: index.html, style.css, and script.js.
 When run, users can open the app in multiple browser windows or devices and see messages appear in real time, demonstrating a basic but functional real-time communication system. This project can be a foundation for more complex applications like chat rooms, live support, or multiplayer games.
 
 ##OUTPUT
+![Image](https://github.com/user-attachments/assets/e6f5e8e0-d55f-4cd2-8d40-3908ba19113f)
